@@ -122,3 +122,7 @@ Our approach of comparing the transfer learning models and the CNN-Sequential pr
 
 
 For the approaches, we have used 5 pre-trained and 1 CNN-Sequential(from scratch) to gather more intuition about the performance of the models. The compilation of the model is done with several metrics like accuracy, precision, and recall.  The number of epochs used to train the model varied for the  approaches we used in VGG19,ReseNet50,Inception_V3,MobilNet-V2,CNN-Sequential(from Scratch) and EfficientNetB3.  
+
+
+
+![Screenshot (62)](https://user-images.githubusercontent.com/69316273/226900552-d7075d96-f8ad-476a-bc88-75d0c3cc18b7.png)

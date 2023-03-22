@@ -19,18 +19,18 @@ Glaucoma: This is a group of conditions that can damage the optic nerve. The opt
 
 ## About the dataset
 
-The dataset below consists of Normal, Diabetic Retinopathy, Cataract and Glaucoma retinal images where each class have approximately 1000 images. These images are collected from various sorces like IDRiD, Oculur recognition, HRF etc.
+The dataset below consists of Normal, Diabetic Retinopathy, Cataract and Glaucoma retinal images where each class have approximately 1000 images. These images are collected from various sorces like IDRiD, Oculur recognition, HRF etc.:
 https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
 
 
 Use the dataset below for your eye A-I predictive algorithms for predicting eye diseases.
-This data contains five types of diseases which is Bulging eyes, Cataracts, Crossed eyes, Glaucoma and Uveitis
+This data contains five types of diseases which is Bulging eyes, Cataracts, Crossed eyes, Glaucoma and Uveitis:
 https://www.kaggle.com/datasets/kondwani/eye-disease-dataset
 
 
 
 Ocular Disease Intelligent Recognition (ODIR) is a structured ophthalmic database of 5,000 patients with age, color fundus photographs from left and right eyes and doctors' diagnostic keywords from doctors.
-The dataset below is meant to represent "real-life’" set of patient information collected by Shanggong Medical Technology Co., Ltd. from different hospitals/medical centers in China. In these institutions, fundus images are captured by various cameras in the market, such as Canon, Zeiss and Kowa, resulting into varied image resolutions.
+The dataset below is meant to represent "real-life’" set of patient information collected by Shanggong Medical Technology Co., Ltd. from different hospitals/medical centers in China. In these institutions, fundus images are captured by various cameras in the market, such as Canon, Zeiss and Kowa, resulting into varied image resolutions:
 https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
